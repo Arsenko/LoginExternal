@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="registration">Registration</string>
+    <string name="fileExeption">Error while opening file</string>
+    <string name="successFileWrite">Registration Successful</string>
+    <string name="successLogin">Login Successful</string>
+    <string name="loginPasswordNotFound">Login Failure</string>
+</resources>
