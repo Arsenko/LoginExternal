@@ -7,4 +7,5 @@
     <string name="successFileWrite">Registration Successful</string>
     <string name="successLogin">Login Successful</string>
     <string name="loginPasswordNotFound">Login Failure</string>
+    <string name="saveExFol">Use External folder</string>
 </resources>
